@@ -1,7 +1,7 @@
 $(function() {
 
    // Variablen
-   var api_url = 'https://github.com/jessicaweisze/jessicaweisze.github.io/tree/master/Wechselkursrechner-master/api';
+   var api_url = 'https://jessicaweisze.github.io/Wechselkursrechner-master/api';
    var fav_currencies = ['EUR', 'USD', 'GBP', 'CHF', 'ILS', 'CNY', 'JPY', 'SGD'];
    var currencies = window.currencies;
    var rates = {};
